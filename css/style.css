@@ -1,0 +1,42 @@
+html {
+	background: #444;
+}
+
+.background {
+	background: url('../img/headerbg.jpg');
+	padding: 200px;
+	background-position: 5% 75%;
+	background-size: cover;
+	opacity: 75%;
+	border-radius: 20px;
+}
+
+.chptr {
+	padding-top: 20px;
+}
+
+.chptr a {
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+}
+
+.lire {
+	padding-left: 30%;
+	display: inline-block;
+}
+
+img {
+	vertical-align: bottom;
+}
+
+.acceuil {
+	padding-left: 50px;
+	text-decoration: none;
+	color: white;
+	font-size: 50px;
+}
+
+body::-webkit-scrollbar {
+	display: none;
+}
